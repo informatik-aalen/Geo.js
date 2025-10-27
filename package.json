@@ -1,5 +1,11 @@
 {
-   "name": "Geo.js",
-   "version": "0.9.0",
-   "main": "Geo.js" 
+  "name": "geo.js",
+  "version": "1.0.0",
+  "description": "Geoinformatik",
+  "main": "Geo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Winfried Bantel",
+  "license": "MIT"
 }
